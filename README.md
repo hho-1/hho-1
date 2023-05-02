@@ -1,10 +1,4 @@
 ### Hi there 👋
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
-</p>
-
 <div>
     <img src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif">
 </div>
