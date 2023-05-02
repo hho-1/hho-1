@@ -4,6 +4,10 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
 </p>
+
+<div>
+    <img src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif">
+</div>
 <!--
 **hho-1/hho-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
