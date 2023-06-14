@@ -32,7 +32,7 @@
   <br>
   
 </div>
-<div>
+<div align="center">
   <img src="https://i.pinimg.com/originals/84/5d/76/845d764f01447f4f03ced1ef12f9a430.gif">
 </div>     
 <!--
