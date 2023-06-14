@@ -2,9 +2,9 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Hello+there!;I+am+Habip!;I+am+full-stack+software+developer;and+automation+tester!;Coding+makes+me+happy!&font=Fira%20Code&center=true&width=420&height=100&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
 <div>
-<img width=400 src='https://github-readme-stats.vercel.app/api?username=hho-1&theme=vue-dark&show_icons=true&hide_border=true&count_private=true' />
-<img width=400 src='https://github-readme-streak-stats.herokuapp.com/?user=hho-1&theme=vue-dark&hide_border=true' />
-<img width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=hho-1&theme=vue-dark&show_icons=true&hide_border=true&layout=compact'/>
+<img align="center" width=400 src='https://github-readme-stats.vercel.app/api?username=hho-1&theme=vue-dark&show_icons=true&hide_border=true&count_private=true' />
+<img align="center" width=400 src='https://github-readme-streak-stats.herokuapp.com/?user=hho-1&theme=vue-dark&hide_border=true' />
+<img align="center" width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=hho-1&theme=vue-dark&show_icons=true&hide_border=true&layout=compact'/>
 </div>
 <br>
 <br>
