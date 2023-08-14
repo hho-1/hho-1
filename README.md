@@ -31,9 +31,6 @@
   <br>
   
 </div>
-<div align="center">
-  <img src="https://media.tenor.com/0r1PMDWYci4AAAAC/roadrunner-coyote.gif">
-</div>     
 <!--
 **hho-1/hho-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
