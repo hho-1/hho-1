@@ -9,7 +9,7 @@
 <br>
 <br>
 <br>
-## hammer_and_wrench: Languages and Tools:
+hammer_and_wrench: Languages and Tools:
 
 <br>
 <div align="center">
