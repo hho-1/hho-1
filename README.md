@@ -24,11 +24,11 @@
   <img src="https://skillicons.dev/icons?i=redux" width="40" height="40"  title="redux" alt="redux" />
   <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40"  title="nodejs" alt="nodejs" />
   <img src="https://skillicons.dev/icons?i=firebase" width="40" height="40"  title="firebase" alt="firebase" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/matlab/matlab-original.svg" title="MatLab" **alt="MatLab" width="40" height="40"/>;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cucumber/cucumber-plain-wordmark.svg" title="Cucumber" **alt="Cucumber" height="40"/>;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/matlab/matlab-original.svg" title="MatLab" **alt="MatLab" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cucumber/cucumber-plain-wordmark.svg" title="Cucumber" **alt="Cucumber" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=github" width="40" height="40"  title="github" alt="github" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jira/jira-original-wordmark.svg" title="Jira" **alt="Jira" width="40" height="40"/>;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jira/jira-original-wordmark.svg" title="Jira" **alt="Jira" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=postman" width="40" height="40"  title="postman" alt="postman" />
   <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40"  title="tailwind" alt="tailwind" />
   <img src="https://skillicons.dev/icons?i=sass" width="40" height="40"  title="sass" alt="sass" />
