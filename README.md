@@ -28,7 +28,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jira/jira-original-wordmark.svg" title="Jira" **alt="Jira" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=materialui,redux" width="50" height="50"  title="MaterialUI and Redux" alt="MaterialUI and Redux" />
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,materialui,bootstrap,tailwind,sass,react,redux,ts,nodejs,jira,github,postman,linux,vscode,intellij,selenium,testng,cucumber,java,vercel,vite,)](https://skillicons.dev)
   <br>
   <br>
   <br>
