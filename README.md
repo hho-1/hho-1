@@ -28,6 +28,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jira/jira-original-wordmark.svg" title="Jira" **alt="Jira" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=materialui,redux" width="50" height="50"  title="MaterialUI and Redux" alt="MaterialUI and Redux" />
+  <img src="https://skillicons.dev/icons?i=tailwind" width="50" height="50"  title="tailwind" alt="tailwind" />
+  <img src="https://skillicons.dev/icons?i=sass" width="50" height="50"  title="sass" alt="sass" />
+  <img src="https://skillicons.dev/icons?i=ts" width="50" height="50"  title="typescript" alt="typescript" />
+  <img src="https://skillicons.dev/icons?i=postman" width="50" height="50"  title="postman" alt="postman" />
   <br>
   <br>
   <br>
