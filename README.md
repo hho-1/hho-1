@@ -45,7 +45,7 @@
   <br>
   <br>
 
-  ![](https://komarev.com/ghpvc/?username=hho-1)
+  ![Visitor Count](https://profile-counter.glitch.me/{hho-1}/count.svg)
   
 </div>
 <!--
