@@ -9,7 +9,7 @@
 <br>
 <br>
 <br>
-###: 🛠️: Languages and Tools:
+🛠️: Languages and Tools:
 
 <br>
 <div align="center">
