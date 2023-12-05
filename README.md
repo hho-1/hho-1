@@ -23,6 +23,7 @@
   <img src="https://skillicons.dev/icons?i=react" width="30" height="30"  title="react" alt="react" />
   <img src="https://skillicons.dev/icons?i=redux" width="30" height="30"  title="redux" alt="redux" />
   <img src="https://skillicons.dev/icons?i=nodejs" width="30" height="30"  title="nodejs" alt="nodejs" />
+  <img src="https://skillicons.dev/icons?i=express" width="30" height="30"  title="express" alt="express" />
   <img src="https://skillicons.dev/icons?i=firebase" width="30" height="30"  title="firebase" alt="firebase" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/matlab/matlab-original.svg" title="MatLab" **alt="MatLab" width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cucumber/cucumber-plain-wordmark.svg" title="Cucumber" **alt="Cucumber" height="40"/>
@@ -30,14 +31,13 @@
   <img src="https://skillicons.dev/icons?i=github" width="30" height="30"  title="github" alt="github" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jira/jira-original-wordmark.svg" title="Jira" **alt="Jira" width="30" height="30"/>
   <img src="https://skillicons.dev/icons?i=postman" width="30" height="30"  title="postman" alt="postman" />
+  <img src="https://skillicons.dev/icons?i=docker" width="30" height="30"  title="docker" alt="docker" />
   <img src="https://skillicons.dev/icons?i=tailwind" width="30" height="30"  title="tailwind" alt="tailwind" />
   <img src="https://skillicons.dev/icons?i=sass" width="30" height="30"  title="sass" alt="sass" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="30" height="30"/>&nbsp;
   <img src="https://skillicons.dev/icons?i=materialui" width="30" height="30"  title="materialui" alt="materialui" />
   <img src="https://skillicons.dev/icons?i=idea" width="30" height="30"  title="idea" alt="idea" />
   <img src="https://skillicons.dev/icons?i=vscode" width="30" height="30"  title="vscode" alt="vscode" />
-  <img src="https://skillicons.dev/icons?i=netlify" width="30" height="30"  title="netlify" alt="netlify" />
-  <img src="https://skillicons.dev/icons?i=vercel" width="30" height="30"  title="vercel" alt="vercel" />
   <img src="https://skillicons.dev/icons?i=mysql" width="30" height="30"  title="mysql" alt="mysql" />
   
   
