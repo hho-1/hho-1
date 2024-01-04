@@ -24,6 +24,7 @@
   <img src="https://skillicons.dev/icons?i=redux" width="30" height="30"  title="redux" alt="redux" />
   <img src="https://skillicons.dev/icons?i=nodejs" width="30" height="30"  title="nodejs" alt="nodejs" />
   <img src="https://skillicons.dev/icons?i=express" width="30" height="30"  title="express" alt="express" />
+  <img src="https://skillicons.dev/icons?i=nextjs" width="30" height="30"  title="nextjs" alt="nextjs" />
   <img src="https://skillicons.dev/icons?i=firebase" width="30" height="30"  title="firebase" alt="firebase" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/matlab/matlab-original.svg" title="MatLab" **alt="MatLab" width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cucumber/cucumber-plain-wordmark.svg" title="Cucumber" **alt="Cucumber" height="40"/>
